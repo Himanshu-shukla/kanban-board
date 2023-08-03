@@ -56,3 +56,6 @@ Additional:
 - Drag and Drop API
 - [React](https://reactjs.org/) - JS library
 - [Redux](https://redux.js.org/) - State management tool
+
+## Author 
+[Himanshu Shukla](https://github.com/Himanshu-shukla/)
